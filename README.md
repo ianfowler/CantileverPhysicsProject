@@ -1,5 +1,5 @@
 # CantileverPhysicsProject
-Cantilever for Calc Based Mechanics, Ian & Aaron
+Cantilever for Calc Based Mechanics, Ian & Freddie
 
 This is the result of the simulation with all the blocks, with the center of mass moving progressively closer to the edge of the table:
 ![SimulationResult](https://github.com/ianfowler/CantileverPhysicsProject/blob/master/linear.png?raw=true)
