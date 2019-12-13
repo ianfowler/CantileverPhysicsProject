@@ -1,2 +1,2 @@
 # CantileverPhysicsProject
-Ian Fowler's Cantilever for Calc Based Mechanics
+Cantilever for Calc Based Mechanics, Ian & Aaron
